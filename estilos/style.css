@@ -1,9 +1,11 @@
 {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 16px;
+
 }
+
 body{
-    background-color:rgb(19, 77, 100);
+    background-color:rgb(92, 160, 187);
 
 }
 main{
@@ -12,4 +14,7 @@ main{
     margin: auto;
     padding: 10px;
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.548), ;
+}
+img.lado{
+    float:right
 }
